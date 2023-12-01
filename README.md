@@ -1,5 +1,5 @@
 # BitCore Website
 
 CONTACT 
-Twitter/@ibit_info
+Twitter/@Bit_eng
 Discord/Bit.jp
