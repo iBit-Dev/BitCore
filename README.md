@@ -1,5 +1,5 @@
 # BitCore Website
 
 CONTACT 
-Twitter/@Bit_eng
-Discord/Bit.jp
+Twitter/@Bithub_dev
+Discord/Bithub.dev
